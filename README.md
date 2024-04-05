@@ -16,7 +16,7 @@ This project aims to develop a Sign Language to Voice Transcriber using machine 
 1. Clone the repository:
 
     ```
-    git clone https://github.com/Anucode25/signtovoice.git
+    git clone https://github.com/Anucode25/signLanguagetranscriber.git
     ```
 
 2. Install dependencies:
